@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://wenrzyra.github.io/zyx/zyx.txt
